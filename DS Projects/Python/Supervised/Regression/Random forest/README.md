@@ -31,15 +31,15 @@ charges	Annual medical insurance charges (target)
 ⚙️ Modeling Approach
 # Models Implemented
 
-✅ Random Forest Regression (baseline)
+ Random Forest Regression (baseline)
 
-✅ AdaBoost Regression
+ AdaBoost Regression
 
-✅ Gradient Boosting Regression
+ Gradient Boosting Regression
 
-✅ Stacking Regressor (Random Forest + GB + Ridge)
+ Stacking Regressor (Random Forest + GB + Ridge)
 
-Techniques Used
+# Techniques Used
 
 One-hot encoding via ColumnTransformer
 
